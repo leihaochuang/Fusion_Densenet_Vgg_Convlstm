@@ -1,0 +1,131 @@
+E:/dataset/kitti/data_road/point_cloud_train/um_000001.png E:/dataset/kitti/data_road/point_cloud_train/um_000002.png E:/dataset/kitti/data_road/point_cloud_train/um_000003.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000000.png E:/dataset/kitti/data_road/point_cloud_train/um_000001.png E:/dataset/kitti/data_road/point_cloud_train/um_000002.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000007.png E:/dataset/kitti/data_road/point_cloud_train/um_000008.png E:/dataset/kitti/data_road/point_cloud_train/um_000009.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000006.png E:/dataset/kitti/data_road/point_cloud_train/um_000007.png E:/dataset/kitti/data_road/point_cloud_train/um_000008.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000038.png E:/dataset/kitti/data_road/point_cloud_train/um_000039.png E:/dataset/kitti/data_road/point_cloud_train/um_000040.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000037.png E:/dataset/kitti/data_road/point_cloud_train/um_000038.png E:/dataset/kitti/data_road/point_cloud_train/um_000039.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000036.png E:/dataset/kitti/data_road/point_cloud_train/um_000037.png E:/dataset/kitti/data_road/point_cloud_train/um_000038.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000035.png E:/dataset/kitti/data_road/point_cloud_train/um_000036.png E:/dataset/kitti/data_road/point_cloud_train/um_000037.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000034.png E:/dataset/kitti/data_road/point_cloud_train/um_000035.png E:/dataset/kitti/data_road/point_cloud_train/um_000036.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000033.png E:/dataset/kitti/data_road/point_cloud_train/um_000034.png E:/dataset/kitti/data_road/point_cloud_train/um_000035.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000032.png E:/dataset/kitti/data_road/point_cloud_train/um_000033.png E:/dataset/kitti/data_road/point_cloud_train/um_000034.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000031.png E:/dataset/kitti/data_road/point_cloud_train/um_000032.png E:/dataset/kitti/data_road/point_cloud_train/um_000033.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000030.png E:/dataset/kitti/data_road/point_cloud_train/um_000031.png E:/dataset/kitti/data_road/point_cloud_train/um_000032.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000029.png E:/dataset/kitti/data_road/point_cloud_train/um_000030.png E:/dataset/kitti/data_road/point_cloud_train/um_000031.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000028.png E:/dataset/kitti/data_road/point_cloud_train/um_000029.png E:/dataset/kitti/data_road/point_cloud_train/um_000030.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000027.png E:/dataset/kitti/data_road/point_cloud_train/um_000028.png E:/dataset/kitti/data_road/point_cloud_train/um_000029.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000026.png E:/dataset/kitti/data_road/point_cloud_train/um_000027.png E:/dataset/kitti/data_road/point_cloud_train/um_000028.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000025.png E:/dataset/kitti/data_road/point_cloud_train/um_000026.png E:/dataset/kitti/data_road/point_cloud_train/um_000027.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000024.png E:/dataset/kitti/data_road/point_cloud_train/um_000025.png E:/dataset/kitti/data_road/point_cloud_train/um_000026.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000023.png E:/dataset/kitti/data_road/point_cloud_train/um_000024.png E:/dataset/kitti/data_road/point_cloud_train/um_000025.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000022.png E:/dataset/kitti/data_road/point_cloud_train/um_000023.png E:/dataset/kitti/data_road/point_cloud_train/um_000024.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000021.png E:/dataset/kitti/data_road/point_cloud_train/um_000022.png E:/dataset/kitti/data_road/point_cloud_train/um_000023.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000020.png E:/dataset/kitti/data_road/point_cloud_train/um_000021.png E:/dataset/kitti/data_road/point_cloud_train/um_000022.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000019.png E:/dataset/kitti/data_road/point_cloud_train/um_000020.png E:/dataset/kitti/data_road/point_cloud_train/um_000021.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000018.png E:/dataset/kitti/data_road/point_cloud_train/um_000019.png E:/dataset/kitti/data_road/point_cloud_train/um_000020.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000017.png E:/dataset/kitti/data_road/point_cloud_train/um_000018.png E:/dataset/kitti/data_road/point_cloud_train/um_000019.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000016.png E:/dataset/kitti/data_road/point_cloud_train/um_000017.png E:/dataset/kitti/data_road/point_cloud_train/um_000018.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000015.png E:/dataset/kitti/data_road/point_cloud_train/um_000016.png E:/dataset/kitti/data_road/point_cloud_train/um_000017.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000014.png E:/dataset/kitti/data_road/point_cloud_train/um_000015.png E:/dataset/kitti/data_road/point_cloud_train/um_000016.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000013.png E:/dataset/kitti/data_road/point_cloud_train/um_000014.png E:/dataset/kitti/data_road/point_cloud_train/um_000015.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000012.png E:/dataset/kitti/data_road/point_cloud_train/um_000013.png E:/dataset/kitti/data_road/point_cloud_train/um_000014.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000011.png E:/dataset/kitti/data_road/point_cloud_train/um_000012.png E:/dataset/kitti/data_road/point_cloud_train/um_000013.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000010.png E:/dataset/kitti/data_road/point_cloud_train/um_000011.png E:/dataset/kitti/data_road/point_cloud_train/um_000012.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000058.png E:/dataset/kitti/data_road/point_cloud_train/um_000059.png E:/dataset/kitti/data_road/point_cloud_train/um_000060.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000057.png E:/dataset/kitti/data_road/point_cloud_train/um_000058.png E:/dataset/kitti/data_road/point_cloud_train/um_000059.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000056.png E:/dataset/kitti/data_road/point_cloud_train/um_000057.png E:/dataset/kitti/data_road/point_cloud_train/um_000058.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000055.png E:/dataset/kitti/data_road/point_cloud_train/um_000056.png E:/dataset/kitti/data_road/point_cloud_train/um_000057.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000054.png E:/dataset/kitti/data_road/point_cloud_train/um_000055.png E:/dataset/kitti/data_road/point_cloud_train/um_000056.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000053.png E:/dataset/kitti/data_road/point_cloud_train/um_000054.png E:/dataset/kitti/data_road/point_cloud_train/um_000055.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000052.png E:/dataset/kitti/data_road/point_cloud_train/um_000053.png E:/dataset/kitti/data_road/point_cloud_train/um_000054.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000051.png E:/dataset/kitti/data_road/point_cloud_train/um_000052.png E:/dataset/kitti/data_road/point_cloud_train/um_000053.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000050.png E:/dataset/kitti/data_road/point_cloud_train/um_000051.png E:/dataset/kitti/data_road/point_cloud_train/um_000052.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000049.png E:/dataset/kitti/data_road/point_cloud_train/um_000050.png E:/dataset/kitti/data_road/point_cloud_train/um_000051.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000048.png E:/dataset/kitti/data_road/point_cloud_train/um_000049.png E:/dataset/kitti/data_road/point_cloud_train/um_000050.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000047.png E:/dataset/kitti/data_road/point_cloud_train/um_000048.png E:/dataset/kitti/data_road/point_cloud_train/um_000049.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000046.png E:/dataset/kitti/data_road/point_cloud_train/um_000047.png E:/dataset/kitti/data_road/point_cloud_train/um_000048.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000045.png E:/dataset/kitti/data_road/point_cloud_train/um_000046.png E:/dataset/kitti/data_road/point_cloud_train/um_000047.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000067.png E:/dataset/kitti/data_road/point_cloud_train/um_000068.png E:/dataset/kitti/data_road/point_cloud_train/um_000069.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000066.png E:/dataset/kitti/data_road/point_cloud_train/um_000067.png E:/dataset/kitti/data_road/point_cloud_train/um_000068.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000065.png E:/dataset/kitti/data_road/point_cloud_train/um_000066.png E:/dataset/kitti/data_road/point_cloud_train/um_000067.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000064.png E:/dataset/kitti/data_road/point_cloud_train/um_000065.png E:/dataset/kitti/data_road/point_cloud_train/um_000066.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000063.png E:/dataset/kitti/data_road/point_cloud_train/um_000064.png E:/dataset/kitti/data_road/point_cloud_train/um_000065.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000070.png E:/dataset/kitti/data_road/point_cloud_train/um_000071.png E:/dataset/kitti/data_road/point_cloud_train/um_000072.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000073.png E:/dataset/kitti/data_road/point_cloud_train/um_000074.png E:/dataset/kitti/data_road/point_cloud_train/um_000075.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000081.png E:/dataset/kitti/data_road/point_cloud_train/um_000082.png E:/dataset/kitti/data_road/point_cloud_train/um_000083.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000080.png E:/dataset/kitti/data_road/point_cloud_train/um_000081.png E:/dataset/kitti/data_road/point_cloud_train/um_000082.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000079.png E:/dataset/kitti/data_road/point_cloud_train/um_000080.png E:/dataset/kitti/data_road/point_cloud_train/um_000081.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000090.png E:/dataset/kitti/data_road/point_cloud_train/um_000091.png E:/dataset/kitti/data_road/point_cloud_train/um_000092.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000089.png E:/dataset/kitti/data_road/point_cloud_train/um_000090.png E:/dataset/kitti/data_road/point_cloud_train/um_000091.png
+E:/dataset/kitti/data_road/point_cloud_train/um_000000.png E:/dataset/kitti/data_road/point_cloud_train/um_000001.png E:/dataset/kitti/data_road/point_cloud_train/um_000002.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000003.png E:/dataset/kitti/data_road/point_cloud_train/um_000004.png E:/dataset/kitti/data_road/point_cloud_train/um_000005.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000006.png E:/dataset/kitti/data_road/point_cloud_train/um_000007.png E:/dataset/kitti/data_road/point_cloud_train/um_000008.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000010.png E:/dataset/kitti/data_road/point_cloud_train/um_000011.png E:/dataset/kitti/data_road/point_cloud_train/um_000012.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000014.png E:/dataset/kitti/data_road/point_cloud_train/um_000015.png E:/dataset/kitti/data_road/point_cloud_train/um_000016.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000013.png E:/dataset/kitti/data_road/point_cloud_train/um_000014.png E:/dataset/kitti/data_road/point_cloud_train/um_000015.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000019.png E:/dataset/kitti/data_road/point_cloud_train/um_000020.png E:/dataset/kitti/data_road/point_cloud_train/um_000021.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000018.png E:/dataset/kitti/data_road/point_cloud_train/um_000019.png E:/dataset/kitti/data_road/point_cloud_train/um_000020.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000017.png E:/dataset/kitti/data_road/point_cloud_train/um_000018.png E:/dataset/kitti/data_road/point_cloud_train/um_000019.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000023.png E:/dataset/kitti/data_road/point_cloud_train/um_000024.png E:/dataset/kitti/data_road/point_cloud_train/um_000025.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000022.png E:/dataset/kitti/data_road/point_cloud_train/um_000023.png E:/dataset/kitti/data_road/point_cloud_train/um_000024.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000028.png E:/dataset/kitti/data_road/point_cloud_train/um_000029.png E:/dataset/kitti/data_road/point_cloud_train/um_000030.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000027.png E:/dataset/kitti/data_road/point_cloud_train/um_000028.png E:/dataset/kitti/data_road/point_cloud_train/um_000029.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000026.png E:/dataset/kitti/data_road/point_cloud_train/um_000027.png E:/dataset/kitti/data_road/point_cloud_train/um_000028.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000037.png E:/dataset/kitti/data_road/point_cloud_train/um_000038.png E:/dataset/kitti/data_road/point_cloud_train/um_000039.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000036.png E:/dataset/kitti/data_road/point_cloud_train/um_000037.png E:/dataset/kitti/data_road/point_cloud_train/um_000038.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000035.png E:/dataset/kitti/data_road/point_cloud_train/um_000036.png E:/dataset/kitti/data_road/point_cloud_train/um_000037.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000034.png E:/dataset/kitti/data_road/point_cloud_train/um_000035.png E:/dataset/kitti/data_road/point_cloud_train/um_000036.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000033.png E:/dataset/kitti/data_road/point_cloud_train/um_000034.png E:/dataset/kitti/data_road/point_cloud_train/um_000035.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000032.png E:/dataset/kitti/data_road/point_cloud_train/um_000033.png E:/dataset/kitti/data_road/point_cloud_train/um_000034.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000031.png E:/dataset/kitti/data_road/point_cloud_train/um_000032.png E:/dataset/kitti/data_road/point_cloud_train/um_000033.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000046.png E:/dataset/kitti/data_road/point_cloud_train/um_000047.png E:/dataset/kitti/data_road/point_cloud_train/um_000048.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000045.png E:/dataset/kitti/data_road/point_cloud_train/um_000046.png E:/dataset/kitti/data_road/point_cloud_train/um_000047.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000044.png E:/dataset/kitti/data_road/point_cloud_train/um_000045.png E:/dataset/kitti/data_road/point_cloud_train/um_000046.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000043.png E:/dataset/kitti/data_road/point_cloud_train/um_000044.png E:/dataset/kitti/data_road/point_cloud_train/um_000045.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000042.png E:/dataset/kitti/data_road/point_cloud_train/um_000043.png E:/dataset/kitti/data_road/point_cloud_train/um_000044.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000041.png E:/dataset/kitti/data_road/point_cloud_train/um_000042.png E:/dataset/kitti/data_road/point_cloud_train/um_000043.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000077.png E:/dataset/kitti/data_road/point_cloud_train/um_000078.png E:/dataset/kitti/data_road/point_cloud_train/um_000079.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000076.png E:/dataset/kitti/data_road/point_cloud_train/um_000077.png E:/dataset/kitti/data_road/point_cloud_train/um_000078.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000075.png E:/dataset/kitti/data_road/point_cloud_train/um_000076.png E:/dataset/kitti/data_road/point_cloud_train/um_000077.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000074.png E:/dataset/kitti/data_road/point_cloud_train/um_000075.png E:/dataset/kitti/data_road/point_cloud_train/um_000076.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000073.png E:/dataset/kitti/data_road/point_cloud_train/um_000074.png E:/dataset/kitti/data_road/point_cloud_train/um_000075.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000072.png E:/dataset/kitti/data_road/point_cloud_train/um_000073.png E:/dataset/kitti/data_road/point_cloud_train/um_000074.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000071.png E:/dataset/kitti/data_road/point_cloud_train/um_000072.png E:/dataset/kitti/data_road/point_cloud_train/um_000073.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000070.png E:/dataset/kitti/data_road/point_cloud_train/um_000071.png E:/dataset/kitti/data_road/point_cloud_train/um_000072.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000069.png E:/dataset/kitti/data_road/point_cloud_train/um_000070.png E:/dataset/kitti/data_road/point_cloud_train/um_000071.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000068.png E:/dataset/kitti/data_road/point_cloud_train/um_000069.png E:/dataset/kitti/data_road/point_cloud_train/um_000070.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000067.png E:/dataset/kitti/data_road/point_cloud_train/um_000068.png E:/dataset/kitti/data_road/point_cloud_train/um_000069.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000066.png E:/dataset/kitti/data_road/point_cloud_train/um_000067.png E:/dataset/kitti/data_road/point_cloud_train/um_000068.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000065.png E:/dataset/kitti/data_road/point_cloud_train/um_000066.png E:/dataset/kitti/data_road/point_cloud_train/um_000067.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000064.png E:/dataset/kitti/data_road/point_cloud_train/um_000065.png E:/dataset/kitti/data_road/point_cloud_train/um_000066.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000063.png E:/dataset/kitti/data_road/point_cloud_train/um_000064.png E:/dataset/kitti/data_road/point_cloud_train/um_000065.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000062.png E:/dataset/kitti/data_road/point_cloud_train/um_000063.png E:/dataset/kitti/data_road/point_cloud_train/um_000064.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000061.png E:/dataset/kitti/data_road/point_cloud_train/um_000062.png E:/dataset/kitti/data_road/point_cloud_train/um_000063.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000060.png E:/dataset/kitti/data_road/point_cloud_train/um_000061.png E:/dataset/kitti/data_road/point_cloud_train/um_000062.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000059.png E:/dataset/kitti/data_road/point_cloud_train/um_000060.png E:/dataset/kitti/data_road/point_cloud_train/um_000061.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000058.png E:/dataset/kitti/data_road/point_cloud_train/um_000059.png E:/dataset/kitti/data_road/point_cloud_train/um_000060.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000057.png E:/dataset/kitti/data_road/point_cloud_train/um_000058.png E:/dataset/kitti/data_road/point_cloud_train/um_000059.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000056.png E:/dataset/kitti/data_road/point_cloud_train/um_000057.png E:/dataset/kitti/data_road/point_cloud_train/um_000058.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000055.png E:/dataset/kitti/data_road/point_cloud_train/um_000056.png E:/dataset/kitti/data_road/point_cloud_train/um_000057.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000085.png E:/dataset/kitti/data_road/point_cloud_train/um_000086.png E:/dataset/kitti/data_road/point_cloud_train/um_000087.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000084.png E:/dataset/kitti/data_road/point_cloud_train/um_000085.png E:/dataset/kitti/data_road/point_cloud_train/um_000086.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000083.png E:/dataset/kitti/data_road/point_cloud_train/um_000084.png E:/dataset/kitti/data_road/point_cloud_train/um_000085.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000082.png E:/dataset/kitti/data_road/point_cloud_train/um_000083.png E:/dataset/kitti/data_road/point_cloud_train/um_000084.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000081.png E:/dataset/kitti/data_road/point_cloud_train/um_000082.png E:/dataset/kitti/data_road/point_cloud_train/um_000083.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000092.png E:/dataset/kitti/data_road/point_cloud_train/um_000093.png E:/dataset/kitti/data_road/point_cloud_train/um_000094.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000091.png E:/dataset/kitti/data_road/point_cloud_train/um_000092.png E:/dataset/kitti/data_road/point_cloud_train/um_000093.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000090.png E:/dataset/kitti/data_road/point_cloud_train/um_000091.png E:/dataset/kitti/data_road/point_cloud_train/um_000092.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000003.png E:/dataset/kitti/data_road/point_cloud_train/um_000004.png E:/dataset/kitti/data_road/point_cloud_train/um_000005.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000002.png E:/dataset/kitti/data_road/point_cloud_train/um_000003.png E:/dataset/kitti/data_road/point_cloud_train/um_000004.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000001.png E:/dataset/kitti/data_road/point_cloud_train/um_000002.png E:/dataset/kitti/data_road/point_cloud_train/um_000003.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000000.png E:/dataset/kitti/data_road/point_cloud_train/um_000001.png E:/dataset/kitti/data_road/point_cloud_train/um_000002.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000007.png E:/dataset/kitti/data_road/point_cloud_train/um_000008.png E:/dataset/kitti/data_road/point_cloud_train/um_000009.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000015.png E:/dataset/kitti/data_road/point_cloud_train/um_000016.png E:/dataset/kitti/data_road/point_cloud_train/um_000017.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000014.png E:/dataset/kitti/data_road/point_cloud_train/um_000015.png E:/dataset/kitti/data_road/point_cloud_train/um_000016.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000013.png E:/dataset/kitti/data_road/point_cloud_train/um_000014.png E:/dataset/kitti/data_road/point_cloud_train/um_000015.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000012.png E:/dataset/kitti/data_road/point_cloud_train/um_000013.png E:/dataset/kitti/data_road/point_cloud_train/um_000014.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000011.png E:/dataset/kitti/data_road/point_cloud_train/um_000012.png E:/dataset/kitti/data_road/point_cloud_train/um_000013.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000019.png E:/dataset/kitti/data_road/point_cloud_train/um_000020.png E:/dataset/kitti/data_road/point_cloud_train/um_000021.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000018.png E:/dataset/kitti/data_road/point_cloud_train/um_000019.png E:/dataset/kitti/data_road/point_cloud_train/um_000020.png
+ E:/dataset/kitti/data_road/point_cloud_train/um_000022.png E:/dataset/kitti/data_road/point_cloud_train/um_000023.png E:/dataset/kitti/data_road/point_cloud_train/um_000024.png
+ 

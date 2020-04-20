@@ -1,0 +1,7 @@
+./data_road/point_cloud_train/um_000001.png ./data_road/point_cloud_train/um_000002.png ./data_road/point_cloud_train/um_000003.png
+./data_road/point_cloud_train/um_000000.png ./data_road/point_cloud_train/um_000001.png ./data_road/point_cloud_train/um_000002.png
+./data_road/point_cloud_train/um_000007.png ./data_road/point_cloud_train/um_000008.png ./data_road/point_cloud_train/um_000009.png
+./data_road/point_cloud_train/um_000006.png ./data_road/point_cloud_train/um_000007.png ./data_road/point_cloud_train/um_000008.png
+./data_road/point_cloud_train/um_000038.png ./data_road/point_cloud_train/um_000039.png ./data_road/point_cloud_train/um_000040.png
+./data_road/point_cloud_train/um_000037.png ./data_road/point_cloud_train/um_000038.png ./data_road/point_cloud_train/um_000039.png
+./data_road/point_cloud_train/um_000036.png ./data_road/point_cloud_train/um_000037.png ./data_road/point_cloud_train/um_000038.png
